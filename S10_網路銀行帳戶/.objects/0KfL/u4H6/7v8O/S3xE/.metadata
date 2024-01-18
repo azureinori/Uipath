@@ -1,0 +1,17 @@
+﻿{
+  "Id": "S3xEXpny502-qVelYSqwhA",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/S3xEXpny502-qVelYSqwhA",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Type Into：H目的港",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-17T05:53:12.4525018Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:08.4420546Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

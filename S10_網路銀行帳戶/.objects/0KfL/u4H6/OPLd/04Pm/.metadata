@@ -1,0 +1,17 @@
+﻿{
+  "Id": "04Pm9mEOl0-tpGGujPc3Tw",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/04Pm9mEOl0-tpGGujPc3Tw",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/OPLd6o6e40i5HTu2nfk6xg",
+  "Name": "Click：MPMR1020客戶資料維護",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-11-17T11:04:03.6188762Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:13.0544272Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

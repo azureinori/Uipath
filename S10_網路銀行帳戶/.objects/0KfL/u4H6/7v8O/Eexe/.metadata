@@ -1,0 +1,14 @@
+﻿{
+  "Id": "EexejX7rgE2lmjTFFHhfbw",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/EexejX7rgE2lmjTFFHhfbw",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Get Text '此發票號已有資料，先前保單號為 OA01020…'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-11-27T08:17:32.5392231Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T08:17:32.5392231Z"
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Id": "H1q4HXJ2mEiFXq4zbybjPA",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/H1q4HXJ2mEiFXq4zbybjPA",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/OPLd6o6e40i5HTu2nfk6xg",
+  "Name": "Click：MPMR1030OP合約保單維護程式",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-11-17T04:22:24.5817543Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:13.2182737Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

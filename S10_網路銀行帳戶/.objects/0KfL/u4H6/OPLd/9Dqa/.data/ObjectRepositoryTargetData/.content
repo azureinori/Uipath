@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="th8HKj40ykiodMBoN0KtFg" Reference="J5JZ5uPMYE2IyiDhBt7Ohg/9DqaGklcpkqz0piekFp2rg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" ContentHash="Bp857YIVKU-kkjL5CV1ctw" DesignTimeRectangle="252, 119, 88, 25" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'unchecked'" FullSelectorArgument="&lt;wnd ctrlid='2' title='確定' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='2' title='確定' check:text='unchecked' /&gt;" Guid="2e03ef17-835b-4033-ad38-d9a489fc3767" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFwAAAAdCAYAAAAn6wuRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVGhD7ZkxTsQwEEVTwAW4jQsa7jIdokai4gRTU3AMtwhBh0QHSFicALRSGgokVoP/bnbXdkICITiJNMWTHMtJ8eZnYsVFWZai5EOFZ0aFZ6Ym/Na9ydHFi+yfPUpx+qD0AO7gEC5Tv5FwLDg4f5LLu4W8f3zKcrlUegB3cAiXqfRIOKqChU0PUX4PXMJp6DgSjldBkz0ccAmnoeNIOPpP041Kf+A0chxdTFa4FWbXMD99Ji7cChWFFBVEtB3vMMLum3sNi6vNj8ssEm69aIuxJSHrr631Y16JdkyVcCds0mKkVM8ZkRkIT9qHYzGJSBRhJZzaE+2YVXgXjk0lFq0DLSZOe7y+LeXjpxtMW7hPMxmzEovWQT7BRD8XOYVEp0w+4Zskb3p12s9r632RuJpX4X2oCW9PeCh5144qyH9sg7VjMAvha2Hr7V97wtfbyM28JrwPnQkPBQdr/B7cqvC/s014ii+MCbeP2zejuThjMTvhc0eFZ0aFZ6ZVuP4PH5bO/+F64jMsnSc+eqY5DHAHh51nmuDm+VUO+V72Tq6lOL5SegB3cAiXqd+acOV/UeGZUeFZKeUL2CqN/B4APB0AAAAASUVORK5CYII=" Reference="J5JZ5uPMYE2IyiDhBt7Ohg/9DqaGklcpkqz0piekFp2rg" ScopeSelectorArgument="&lt;wnd app='mrcheck.exe' cls='#32770' title='訊息！' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ba2f890aa14a1d00a036d4c122bb77d7.png" xmlns="">0l5kgQ9hWZ06Ov1LEnx-Y7w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

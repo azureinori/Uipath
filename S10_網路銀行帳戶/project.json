@@ -1,20 +1,20 @@
 {
-  "name": "AS0240011統一轉換固定日期格式_",
-  "projectId": "a714c19d-eed4-47b5-a8cb-6b34b3957a75",
-  "description": "",
-  "main": "M0011_統一轉換固定日期格式.xaml",
+  "name": "S10_網路銀行帳戶",
+  "projectId": "45ebd527-563c-4f24-baa8-efe20764c02e",
+  "description": "新版上線",
+  "main": "M0011_網路銀行帳戶.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.22.2]",
-    "UiPath.Mail.Activities": "[1.21.1]",
+    "UiPath.Excel.Activities": "[2.16.1]",
+    "UiPath.Mail.Activities": "[1.18.2]",
     "UiPath.System.Activities": "[23.10.2]",
-    "UiPath.Testing.Activities": "[23.10.0]",
-    "UiPath.UIAutomation.Activities": "[23.10.3]"
+    "UiPath.Testing.Activities": "[22.10.1]",
+    "UiPath.UIAutomation.Activities": "[22.10.4]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "23.10.0.0",
-  "projectVersion": "1.0.0",
+  "studioVersion": "22.10.5.0",
+  "projectVersion": "1.0.9",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -50,8 +50,20 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "M0011_統一轉換固定日期格式.xaml",
-      "uniqueId": "13ed878c-4e3c-4125-aae8-ab3a960c4c85",
+      "filePath": "Test_測試用.xaml",
+      "uniqueId": "2d9b2ae5-7ced-4b70-a44c-d3d617b3a22e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "SMTP Testing.xaml",
+      "uniqueId": "de177a84-82dd-46e2-9d93-a9970b547b46",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "M0011_網路銀行帳戶.xaml",
+      "uniqueId": "3b489809-3950-440e-87e6-a3d63ad4493a",
       "input": [],
       "output": []
     }

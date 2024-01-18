@@ -1,0 +1,17 @@
+﻿{
+  "Id": "IScbJhFY4UyNE67vYwGzAQ",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/IScbJhFY4UyNE67vYwGzAQ",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Type Into：F起運港",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-17T05:51:51.3805676Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:08.2795102Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

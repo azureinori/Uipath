@@ -1,0 +1,16 @@
+﻿{
+  "Id": "8izMDWolVEunRIVxwZ5GfA",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/8izMDWolVEunRIVxwZ5GfA",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/iVJmGnUBlkOKpkwlWhRRJw",
+  "Name": "選擇系統",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-11-17T02:29:29.3800398Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:14.1744794Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

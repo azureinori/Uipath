@@ -1,0 +1,17 @@
+﻿{
+  "Id": "GYesSdj9DkGmXwL1kUue4w",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/GYesSdj9DkGmXwL1kUue4w",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Click_新增",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-11-17T09:15:38.6106965Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:06.8258917Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "fik1dDMw8UStkZrw_x_XeQ",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/fik1dDMw8UStkZrw_x_XeQ",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/Uq8aNvrb8EmjkTs4BpaOpw",
+  "Name": "使用者代號",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-11-16T10:19:45.4329507Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:11.4325303Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

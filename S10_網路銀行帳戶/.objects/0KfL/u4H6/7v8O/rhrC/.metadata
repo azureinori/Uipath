@@ -1,0 +1,17 @@
+﻿{
+  "Id": "rhrCjcv9mUi9GoVkD5hoIg",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/rhrCjcv9mUi9GoVkD5hoIg",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "送出訊息",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-11-17T10:26:01.4759477Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:10.7407083Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

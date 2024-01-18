@@ -1,0 +1,15 @@
+﻿{
+  "Id": "AOas6agZOE-MQQRQ_ErR_w",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/AOas6agZOE-MQQRQ_ErR_w",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/Etq8InA_BEywCp7IAvKLcA",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2023-10-26T10:01:28.777891Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-17T04:00:30.9488165Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

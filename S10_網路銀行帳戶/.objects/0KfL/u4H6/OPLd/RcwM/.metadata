@@ -1,0 +1,17 @@
+﻿{
+  "Id": "RcwMEH-XMUeZjg2LRiZ1xg",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/RcwMEH-XMUeZjg2LRiZ1xg",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/OPLd6o6e40i5HTu2nfk6xg",
+  "Name": "Click：MPMR100OP保單資料維護",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-11-17T11:04:55.3036403Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:12.8575761Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

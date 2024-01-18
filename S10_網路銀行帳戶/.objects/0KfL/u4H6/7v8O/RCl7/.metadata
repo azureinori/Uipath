@@ -1,0 +1,16 @@
+﻿{
+  "Id": "RCl7Yyt1Bk2HIrBmlRZJpQ",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/RCl7Yyt1Bk2HIrBmlRZJpQ",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "保單編號",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-17T02:47:39.3572694Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:10.4502311Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Id": "OyoOlpdkRESoskWgIEdTrw",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/OyoOlpdkRESoskWgIEdTrw",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Type Into：J運送方式",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-17T05:54:43.5998322Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:08.6039542Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

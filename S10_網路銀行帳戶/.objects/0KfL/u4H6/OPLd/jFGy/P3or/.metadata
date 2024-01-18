@@ -1,0 +1,17 @@
+﻿{
+  "Id": "P3orrFHuYkOyIKZY3fO5ow",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/P3orrFHuYkOyIKZY3fO5ow",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/jFGyZykN_ECaFzJVKOUe8g",
+  "Name": "[後段]告警訊息確定",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-11-22T08:28:45.0654757Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:12.2516517Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

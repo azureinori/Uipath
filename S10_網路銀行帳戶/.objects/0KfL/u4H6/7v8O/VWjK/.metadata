@@ -1,0 +1,14 @@
+﻿{
+  "Id": "VWjKIMHAe0Cv_ff77EKCkg",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/VWjKIMHAe0Cv_ff77EKCkg",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Type Into：AE散裝註",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-27T07:23:04.6216639Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:23:04.6216639Z"
+}

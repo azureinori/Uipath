@@ -1,0 +1,17 @@
+﻿{
+  "Id": "9DqaGklcpkqz0piekFp2rg",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/9DqaGklcpkqz0piekFp2rg",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/OPLd6o6e40i5HTu2nfk6xg",
+  "Name": "Click：確定",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-11-17T04:22:24.5981479Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:13.5621598Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

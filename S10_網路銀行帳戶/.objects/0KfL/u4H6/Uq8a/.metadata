@@ -1,0 +1,17 @@
+﻿{
+  "Id": "Uq8aNvrb8EmjkTs4BpaOpw",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/Uq8aNvrb8EmjkTs4BpaOpw",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/u4H60wymDkKbnbgSa1LHOw",
+  "Name": "登入頁面",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2023-11-16T10:18:24.142115Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:11.2911398Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

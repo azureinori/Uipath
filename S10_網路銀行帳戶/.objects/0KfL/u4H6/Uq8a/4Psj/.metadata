@@ -1,0 +1,16 @@
+﻿{
+  "Id": "4PsjlH6yg0CD8qEPH-MWvQ",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/4PsjlH6yg0CD8qEPH-MWvQ",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/Uq8aNvrb8EmjkTs4BpaOpw",
+  "Name": "確定",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-11-16T10:21:22.653691Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:11.8455343Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

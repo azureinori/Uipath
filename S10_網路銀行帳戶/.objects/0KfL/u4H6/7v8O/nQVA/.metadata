@@ -1,0 +1,17 @@
+﻿{
+  "Id": "nQVA-aH0S0Kn80JskkXkBA",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/nQVA-aH0S0Kn80JskkXkBA",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Type Into：AJ受理號",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-17T09:14:05.6023284Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:07.4137269Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

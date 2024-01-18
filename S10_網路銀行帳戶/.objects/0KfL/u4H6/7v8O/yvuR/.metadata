@@ -1,0 +1,17 @@
+﻿{
+  "Id": "yvuRyoE-IUq2z49ZbmloUA",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/yvuRyoE-IUq2z49ZbmloUA",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Type Into：AA條款編號",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-17T06:41:52.284367Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:06.9585616Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

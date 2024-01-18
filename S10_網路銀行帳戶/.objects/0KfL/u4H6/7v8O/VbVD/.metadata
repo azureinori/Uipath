@@ -1,0 +1,17 @@
+﻿{
+  "Id": "VbVDuFS8zUGrpyfmHIFJcg",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/VbVDuFS8zUGrpyfmHIFJcg",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Type Into：K船名",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-17T05:55:27.1107397Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:08.7340466Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Id": "jD6smex2q0CxF0Q_3HHfLA",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/jD6smex2q0CxF0Q_3HHfLA",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Type Into：Q匯兌率",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-17T05:59:34.7932195Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:09.6465416Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

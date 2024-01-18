@@ -1,0 +1,17 @@
+﻿{
+  "Id": "3LcYf11Hw0O-QBTgfA-O6A",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/3LcYf11Hw0O-QBTgfA-O6A",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Type Into：X LC號碼",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-17T06:34:42.0829924Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:10.3012621Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

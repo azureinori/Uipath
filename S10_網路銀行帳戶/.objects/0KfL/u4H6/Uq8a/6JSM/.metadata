@@ -1,0 +1,16 @@
+﻿{
+  "Id": "6JSMR8awN0OfzQwVmmo5oA",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/6JSMR8awN0OfzQwVmmo5oA",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/Uq8aNvrb8EmjkTs4BpaOpw",
+  "Name": "密碼",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-16T10:19:45.6047475Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:11.555247Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

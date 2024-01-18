@@ -1,0 +1,17 @@
+﻿{
+  "Id": "yjU_Fvpo20mrmsMSIvLaBw",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/yjU_Fvpo20mrmsMSIvLaBw",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Type Into：AL受貨人",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-17T09:15:01.0324295Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:07.7103774Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

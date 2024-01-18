@@ -1,0 +1,15 @@
+﻿{
+  "Id": "7v8O41jSm0mAJphhv0LhEg",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/u4H60wymDkKbnbgSa1LHOw",
+  "Name": "<MPMR1030>OP合約保單維護",
+  "Type": "Screen",
+  "Created": "2023-11-17T02:47:39.2294299Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:06.4961645Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

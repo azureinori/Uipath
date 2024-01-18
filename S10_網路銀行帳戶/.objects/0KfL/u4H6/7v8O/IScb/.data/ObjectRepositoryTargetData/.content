@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mKEYIMJgH0OnzyMDfAmWdg" Reference="J5JZ5uPMYE2IyiDhBt7Ohg/IScbJhFY4UyNE67vYwGzAQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" ContentHash="gU9E7ys6ykiyvd3lyy3dAA" DesignTimeRectangle="102, 243, 78, 18" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'PBEDIT190'" FullSelectorArgument="&lt;wnd cls='FNUDO*' title='建檔畫面一' /&gt;&lt;wnd cls='PBEDIT190' idx='11' /&gt;" FuzzySelectorArgument="&lt;wnd cls='FNUDO*' title='建檔畫面一' /&gt;&lt;wnd cls='PBEDIT190' /&gt;" Guid="cf0ed182-6b75-4fce-9de0-51d6e982cd23" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFIAAAAWCAYAAABT5cvhAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABsSURBVFhH7dChDYBQEMDQL/DsPwNBscANwhB4xJEgSMgnIXCVFc9VtcUaqbpz5DQvKriNbMOYuW/6yJEQR0IcCXEkxJEQR0IcCXEkxJEQR0IcCXEkxJEQR0IcCXEkpBv5FOldN1L/XSNVFXkAtepDSGDhD+YAAAAASUVORK5CYII=" Reference="J5JZ5uPMYE2IyiDhBt7Ohg/IScbJhFY4UyNE67vYwGzAQ" ScopeSelectorArgument="&lt;wnd app='mrcheck.exe' cls='FNWND*' title='華南產物保險公司水險測試系統(RPA)     徐偉剛     T00RPA     hwae730t@shme2' /&gt;&lt;wnd cls='FNWND*' title='&amp;lt;MPMR1030&amp;gt;OP合約保單維護' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d2f99add1da00a7e3aec6cfa6a3d7bb4.png" xmlns="">0tkAwxeie9kiJk1Xz-oLy5g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

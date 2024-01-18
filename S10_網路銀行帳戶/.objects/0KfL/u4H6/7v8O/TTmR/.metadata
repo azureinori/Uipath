@@ -1,0 +1,17 @@
+﻿{
+  "Id": "TTmRou42YkKI5IAmipwuWw",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/TTmRou42YkKI5IAmipwuWw",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/7v8O41jSm0mAJphhv0LhEg",
+  "Name": "Type Into：P總發票幣別",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-11-17T06:06:07.6512518Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:09.395072Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

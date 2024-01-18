@@ -1,0 +1,17 @@
+﻿{
+  "Id": "VBCmjudbDEOXVuJHmykSUQ",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/VBCmjudbDEOXVuJHmykSUQ",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/OPLd6o6e40i5HTu2nfk6xg",
+  "Name": "Click：MRMR060條款資料維護",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-11-20T03:27:21.0685632Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:13.4143118Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

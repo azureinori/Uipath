@@ -1,0 +1,16 @@
+﻿{
+  "Id": "YCixeKJBB0SQ-ElSeMMN5g",
+  "Reference": "J5JZ5uPMYE2IyiDhBt7Ohg/YCixeKJBB0SQ-ElSeMMN5g",
+  "ParentRef": "J5JZ5uPMYE2IyiDhBt7Ohg/Uq8aNvrb8EmjkTs4BpaOpw",
+  "Name": "放棄",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-11-16T10:21:22.7904008Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-11-27T07:22:11.6996686Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
